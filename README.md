@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### I am Kshitij!
-#### A sophomore ME undergraduate at IIT Indore passionate about Autonomous Vehicles, Robotics and AI. 
-- 🔭 I’m currently working on Model Predictive Control for Autonomous Mobile Robotics at Ati Motors, Bangalore.
-- 📫 Feel free to reach out to me
+#### A sophomore ME undergraduate at IIT Indore passionate about Autonomous Vehicles, Robotics, and AI. 
+
+📫 Feel free to reach out to me
 [Email](mailto:me200003042@iiti.ac.in) [LinkedIn](https://www.linkedin.com/in/kshitij-bhat/) [Twitter](https://twitter.com/kshitij_m_bhat)
 
 <!--

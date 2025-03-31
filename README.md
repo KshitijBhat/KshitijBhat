@@ -1,9 +1,9 @@
 ## Hi there 👋
 ### I am Kshitij!
-#### A final year undergraduate at IIT Indore passionate about Autonomous Vehicles, Robotics, and AI. 
+#### I'm an MS student majoring Robotic Systems Development at the Robotics Institute, Carnegie Mellon University.
 
 📫 Feel free to reach out to me
-[Email](mailto:me200003042@iiti.ac.in) [LinkedIn](https://www.linkedin.com/in/kshitij-bhat/) [Twitter](https://twitter.com/kshitij_m_bhat)
+[Email](mailto:kmadhavb@cs.cmu.edu) [LinkedIn](https://www.linkedin.com/in/kshitij-bhat/) [Twitter](https://twitter.com/kshitij_m_bhat)
 
 <!--
 **KshitijBhat/KshitijBhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
